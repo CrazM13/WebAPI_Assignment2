@@ -1,0 +1,22 @@
+{
+  "name": "webapi_assignment2",
+  "version": "2.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazM13/WebAPI_Assignment2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrazM13/WebAPI_Assignment2/issues"
+  },
+  "homepage": "https://github.com/CrazM13/WebAPI_Assignment2#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
